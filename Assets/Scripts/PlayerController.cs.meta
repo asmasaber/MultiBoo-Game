@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 5fe16e5fc145f804a98cfd9451d0bba6
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - counterText: {instanceID: 0}
+  - btnTexture: {fileID: 2800000, guid: 0f2775cc0864a7545989fa4d07060172, type: 3}
+  - rtrueTexture: {fileID: 2800000, guid: 0db78fc844ab75b408fa467bc8c0e7f9, type: 3}
+  - rfalseTexture: {fileID: 2800000, guid: f66453c4c795d534baa944d3ffc48d1c, type: 3}
+  - CountText: {instanceID: 0}
+  - WinText: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
